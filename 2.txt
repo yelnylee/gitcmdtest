@@ -3,3 +3,4 @@
 3.git status 
 4.git add 
 5.git diff
+6.=====
